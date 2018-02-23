@@ -1,0 +1,27 @@
+2018/2/23 上午 02:12:18: CallbackStatus updated to Checking
+2018/2/23 上午 02:12:18: 
+2018/2/23 上午 02:12:18: Beginning update thread
+2018/2/23 上午 02:12:18: Stream: Stable40
+2018/2/23 上午 02:12:18: 
+2018/2/23 上午 02:12:18: Running cleanup..
+2018/2/23 上午 02:12:18: Cleanup successful!
+2018/2/23 上午 02:12:18: Requesting update information...
+2018/2/23 上午 02:12:24: discord-rpc.dll: CHANGED (cached)
+2018/2/23 上午 02:12:24: Creating staging folder
+2018/2/23 上午 02:12:24: CallbackStatus updated to Updating
+2018/2/23 上午 02:12:24: Processing discord-rpc.dll...
+2018/2/23 上午 02:12:24: Exists locally; checking for patchability...
+2018/2/23 上午 02:12:25: Server returned 2 patch files
+2018/2/23 上午 02:12:25: Applying patch 2823 (to 40d19512b4244a76dee334dd8a63b17a)...
+2018/2/23 上午 02:12:27: Reached end of patch chain (2870 / 250e4d35ed51ac293527865ca2080c2b), checking file checksum...
+2018/2/23 上午 02:12:27: Patching success!
+2018/2/23 上午 02:12:27: Attempting to MoveInPlace
+2018/2/23 上午 02:12:27: Authenticode signature check failed on _pending\discord-rpc.dll!
+2018/2/23 上午 02:12:27: Running cleanup..
+2018/2/23 上午 02:12:27: Cleanup successful!
+2018/2/23 上午 02:12:27: MoveInPlace successful!
+2018/2/23 上午 02:12:27: Saving out global config
+2018/2/23 上午 02:12:27: 
+2018/2/23 上午 02:12:27: Ending update thread with result: Completed
+2018/2/23 上午 02:12:27: 
+2018/2/23 上午 02:12:27: CallbackStatus updated to Completed
